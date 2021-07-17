@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/davisdredotcom" target="blank"><img src="https://img.shields.io/twitter/follow/davisdredotcom?logo=twitter&style=for-the-badge" alt="davisdredotcom" /></a> </p>
 
-- 🔭 I’m currently working on [AWS](https://github.com/davisdre/blog-davisdre-me)
+- 🔭 I’m currently working on [blog-davisdre-me](https://github.com/davisdre/blog-davisdre-me)
 
 - 🌱 I’m currently learning **AWS, Jekyll**
 
