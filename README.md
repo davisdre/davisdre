@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 10 of learning PowerShell](/powershell/learning/2021/07/21/Day-10-of-learning-PowerShell.html)
+- [Day 9 of learning PowerShell](/powershell/learning/2021/07/19/Day-9-of-learning-PowerShell.html)
+- [Day 8 of learning PowerShell](/powershell/learning/2021/07/13/Day-8-of-learning-PowerShell.html)
+- [Day 7 of learning PowerShell](/powershell/learning/2021/07/12/Day-7-of-learning-PowerShell.html)
+- [Day 6 of learning PowerShell](/powershell/learning/2021/07/09/Day-6-of-learning-PowerShell.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
