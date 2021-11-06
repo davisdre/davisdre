@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Test](/powershell/learning/2021/11/04/test.html)
-- [Day 10 of learning PowerShell](/powershell/learning/2021/07/21/Day-10-of-learning-PowerShell.html)
-- [Day 9 of learning PowerShell](/powershell/learning/2021/07/19/Day-9-of-learning-PowerShell.html)
+- [PowerShell Invoke-WebRequst Tip](/powershell/learning/2021/11/05/PowerShell-invoke-webrequest.html)
 - [Day 8 of learning PowerShell](/powershell/learning/2021/07/13/Day-8-of-learning-PowerShell.html)
 - [Day 7 of learning PowerShell](/powershell/learning/2021/07/12/Day-7-of-learning-PowerShell.html)
+- [Day 6 of learning PowerShell](/powershell/learning/2021/07/09/Day-6-of-learning-PowerShell.html)
+- [Day 5 of learning PowerShell](/powershell/learning/2021/07/08/Day-5-of-learning-PowerShell.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
