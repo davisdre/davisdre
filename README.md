@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
-<h3 align="center">A passionate coder from Indianapolis, IN</h3>
+<h3 align="center">Veteran Advocate | Cloud Advocate | Open-Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davisdre&label=Profile%20views&color=0e75b6&style=flat" alt="davisdre" /> </p>
 
 <p align="left"> <a href="https://twitter.com/davisdredotcom" target="blank"><img src="https://img.shields.io/twitter/follow/davisdredotcom?logo=twitter&style=for-the-badge" alt="davisdredotcom" /></a> </p>
 
-- 🔭 I’m currently working on [blog-davisdre-me](https://github.com/davisdre/blog-davisdre-me)
+- 🔭 I’m currently working on [azure-resume](https://github.com/davisdre/azure-resume)
 
-- 🌱 I’m currently learning **AWS, Jekyll**
+- 🌱 I’m currently learning **Azure**
 
-- 📝 I regularly write articles on [https://blog.davisdre.me/](https://blog.davisdre.me/)
+- 📝 I regularly write articles on [my blog](https://blog.davisdre.me/)
 
 - 📫 How to reach me **github@davisdre.com**
 
