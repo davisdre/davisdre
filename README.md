@@ -17,11 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What you can do on a $20 Linode?](/powershell/learning/2021/11/17/What-you-can-do-on-a-$20-Linode.html)
-- [PowerShell Invoke-WebRequst Tip](/powershell/learning/2021/11/05/PowerShell-invoke-webrequest.html)
-- [Day 8 of learning PowerShell](/powershell/learning/2021/07/13/Day-8-of-learning-PowerShell.html)
-- [Day 7 of learning PowerShell](/powershell/learning/2021/07/12/Day-7-of-learning-PowerShell.html)
-- [Day 6 of learning PowerShell](/powershell/learning/2021/07/09/Day-6-of-learning-PowerShell.html)
+- [My resume is built on Azure](/azure/2022/04/19/My-resume-built-on-Azure.html)
+- [How I built this blog site](/azure/2022/04/14/How-I-built-this-blog-site.html)
+- [Welcome to my-blog!](/other/2022/04/13/welcome-to-my-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
