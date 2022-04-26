@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I passed! AZ-900 Exam tips](/azure/2022/04/25/az-900-exam-tips.html)
 - [My resume is built on Azure](/azure/2022/04/19/My-resume-built-on-Azure.html)
 - [How I built this blog site](/azure/2022/04/14/How-I-built-this-blog-site.html)
 - [Welcome to my-blog!](/other/2022/04/13/welcome-to-my-blog.html)
