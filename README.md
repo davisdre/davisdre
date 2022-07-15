@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I passed! AWS CCP Exam tips](/aws/2022/07/14/aws-ccp-exam-tips.html)
 - [Using AWS Elastic Beanstalk](/aws/2022/05/31/Using-AWS-Beanstalk.html)
 - [I passed! AZ-900 Exam tips](/azure/2022/04/25/az-900-exam-tips.html)
 - [My resume is built on Azure](/azure/2022/04/19/My-resume-built-on-Azure.html)
 - [How I built this blog site](/azure/2022/04/14/How-I-built-this-blog-site.html)
-- [Welcome to my-blog!](/other/2022/04/13/welcome-to-my-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
