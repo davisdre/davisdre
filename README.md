@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 in Review](/2022/12/31/2022-in-review.html)
 - [Hands on with AWS Amplify](/aws/aws_amplify/2022/12/08/Hands-on-with-AWS-Amplify.html)
 - [Cloud Build: GCP and Cloud Build](/gcp/cloud_build/2022/10/19/cloud-build-episode-3.html)
 - [Cloud Build: AWS and Wordpress](/aws/cloud_build/2022/10/04/cloud-build-episode-2.html)
 - [Create a website in Azure in 10 minutes](/azure/2022/09/24/azure-webapp.html)
-- [Cloud Build: Azure and Docker](/azure/cloud_build/2022/07/31/Cloud-build-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
