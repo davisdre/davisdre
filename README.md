@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a News App Using NewsAPI, Bootstrap, and JavaScript](/2023/03/17/How-I-created-a-news-app.html)
 - [How ChatGPT can help cloud administrators](/2023/03/15/How-ChatGPT-can-help-cloud-administrators.html)
 - [Use your hotmail email account on Bitwarden self-hosted for SMTP](/2023/01/16/bitwarden-self-host-smtp-setup.html)
 - [2022 in Review](/2022/12/31/2022-in-review.html)
 - [Hands on with AWS Amplify](/aws/aws_amplify/2022/12/08/Hands-on-with-AWS-Amplify.html)
-- [Cloud Build: GCP and Cloud Build](/gcp/cloud_build/2022/10/19/cloud-build-episode-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
