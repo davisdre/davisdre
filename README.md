@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover The Benefits Of AWS CloudFormation](/2023/07/19/AWS-CloudFormation_Journey.html)
+- [Setting Up and Upgrading Gitea on Synology NAS Using Docker](/2023/04/26/setting-up-and-upgrading-gitea-on-synology.html)
 - [How to Upgrade Your Bitwarden Self-Hosted Instance on Linode](/2023/04/19/How-to-Upgrade-Your-Bitwarden-Self-Hosted-Instance-on-Linode.html)
 - [How I Built my March Madness bracket by ChatGPT](/2023/03/27/How-I-built-my-march-madness-bracket.html)
 - [How I Built a News App Using NewsAPI, Bootstrap, and JavaScript](/2023/03/17/How-I-created-a-news-app.html)
-- [How ChatGPT can help cloud administrators](/2023/03/15/How-ChatGPT-can-help-cloud-administrators.html)
-- [Use your hotmail email account on Bitwarden self-hosted for SMTP](/2023/01/16/bitwarden-self-host-smtp-setup.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
