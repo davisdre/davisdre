@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use MariaDB on Synology NAS with Docker](/2023/10/14/How_to_user_MariaDB_on_Synology_NAS_with_Docker.html)
 - [Self-Hosting Gitea on Synology NAS with Docker and MariaDB](/2023/08/27/Self-Hosting_Gitea_on_Synology_NAS_with_Docker_and_MariaDB.html)
 - [Configure an AWS static site with Cloudflare](/2023/08/08/Configure-AWS-s3-with-cloudflare.html)
 - [Discover The Benefits Of AWS CloudFormation](/2023/07/19/AWS-CloudFormation_Journey.html)
 - [Setting Up and Upgrading Gitea on Synology NAS Using Docker](/2023/04/26/setting-up-and-upgrading-gitea-on-synology.html)
-- [How to Upgrade Your Bitwarden Self-Hosted Instance on Linode](/2023/04/19/How-to-Upgrade-Your-Bitwarden-Self-Hosted-Instance-on-Linode.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
