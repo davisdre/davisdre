@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Remove and Install a Linux Distribution on Windows Using WSL Commands](/2024/01/14/wsl.html)
 - [Insights and Takeaways from the 2023 Indiana Public Sector Cybersecurity Summit](/2023/12/05/Attended_the_2023_indiana_public_sector_cybersecurity_summit.html)
 - [How to use MariaDB on Synology NAS with Docker](/2023/10/14/How_to_user_MariaDB_on_Synology_NAS_with_Docker.html)
 - [Self-Hosting Gitea on Synology NAS with Docker and MariaDB](/2023/08/27/Self-Hosting_Gitea_on_Synology_NAS_with_Docker_and_MariaDB.html)
 - [Configure an AWS static site with Cloudflare](/2023/08/08/Configure-AWS-s3-with-cloudflare.html)
-- [Discover The Benefits Of AWS CloudFormation](/2023/07/19/AWS-CloudFormation_Journey.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
